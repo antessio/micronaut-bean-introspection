@@ -1,3 +1,9 @@
 micronaut:
   application:
     name: micronaut-htt-service
+
+jackson:
+  serializationInclusion: ALWAYS
+  bean-introspection-module: true
+  serialization:
+    failOnEmptyBeans: false

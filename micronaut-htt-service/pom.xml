@@ -6,7 +6,7 @@
     <artifactId>micronaut-htt-service</artifactId>
     <version>0.1</version>
     <properties>
-        <micronaut.version>1.2.8</micronaut.version>
+        <micronaut.version>1.2.9</micronaut.version>
         <jdk.version>1.8</jdk.version>
         <maven.compiler.target>${jdk.version}</maven.compiler.target>
         <maven.compiler.source>${jdk.version}</maven.compiler.source>
@@ -200,17 +200,17 @@
                             <path>
                                 <groupId>io.micronaut</groupId>
                                 <artifactId>micronaut-graal</artifactId>
-                                <version>1.2.8</version>
+                                <version>1.2.9</version>
                             </path>
                             <path>
                                 <groupId>io.micronaut</groupId>
                                 <artifactId>micronaut-inject-java</artifactId>
-                                <version>1.2.8</version>
+                                <version>1.2.9</version>
                             </path>
                             <path>
                                 <groupId>io.micronaut</groupId>
                                 <artifactId>micronaut-validation</artifactId>
-                                <version>1.2.8</version>
+                                <version>1.2.9</version>
                             </path>
                         </annotationProcessorPaths>
                     </configuration>
@@ -228,17 +228,17 @@
                                     <path>
                                         <groupId>io.micronaut</groupId>
                                         <artifactId>micronaut-graal</artifactId>
-                                        <version>1.2.8</version>
+                                        <version>1.2.9</version>
                                     </path>
                                     <path>
                                         <groupId>io.micronaut</groupId>
                                         <artifactId>micronaut-inject-java</artifactId>
-                                        <version>1.2.8</version>
+                                        <version>1.2.9</version>
                                     </path>
                                     <path>
                                         <groupId>io.micronaut</groupId>
                                         <artifactId>micronaut-validation</artifactId>
-                                        <version>1.2.8</version>
+                                        <version>1.2.9</version>
                                     </path>
                                 </annotationProcessorPaths>
                             </configuration>
